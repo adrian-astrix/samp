@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Caminho para o executável do servidor
 SERVER_PATH="./samp03svr"
